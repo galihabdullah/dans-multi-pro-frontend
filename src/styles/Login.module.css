@@ -1,0 +1,13 @@
+.loginWrapper{
+    min-height: calc(var(--vh, 1vh) * 100);
+    width: 100%;
+}
+
+.loginBox{
+    border: 1px solid black;
+    width: 100%;
+    position: relative;
+    border-radius: 15px;
+    max-width: 400px;
+    padding: 15px;
+}

@@ -1,0 +1,29 @@
+.navbar{
+  background-color: #00427a96;
+  color: white;
+  min-height: 8vh;
+}
+
+.main-wrapper{
+  background-color: whitesmoke;
+  min-height: 92vh;
+  padding-top: 30px;
+}
+
+
+
+
+
+
+.btn-primary{
+  background-color : #00427a96 !important;
+  border-color: #00427a96 !important;
+}
+
+.text-primary{
+  color: #00427a !important;
+}
+
+.text-secondary{
+  color: gray !important;
+}
